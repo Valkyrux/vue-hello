@@ -10,4 +10,4 @@ const root = new Vue({
           this.counter++;
       }  
     }
-  });
+});
